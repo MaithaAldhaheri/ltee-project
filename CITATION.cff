@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "LTEE Project"
+abstract: "A reproducible analysis project for LTEE variant calling - Maitha"
+type: software
+authors:
+  - given-names: "Maitha"
+    family-names: "Aldhaheri"
+    email: "maitha.aldhaheri@mbzuai.ac.ae"
+    orcid: "https://orcid.org/0009-0002-4798-7482"
+repository-code: "https://github.com/MaithaAldhaheri/ltee-project"
+license: MIT
+version: 0.1.0
+date-released: "2026-10-26"
