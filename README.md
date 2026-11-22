@@ -57,3 +57,7 @@ Project layout generated from the CBIO7501 project template
 ## Get the data
 
     pixi exec python scripts/download_data.py
+
+## Container
+
+Docker image built from pixi.lock: `docker build --platform linux/amd64 -f containers/Dockerfile --build-arg ENV_NAME=pipeline -t ltee-project:0.1.0 .`
